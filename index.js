@@ -1,5 +1,3 @@
-/* Your Code Here */
-
 
 // Function populates a field properties from the elements from passed array of employee details
 let createEmployeeRecord = (employeeCard) => {
